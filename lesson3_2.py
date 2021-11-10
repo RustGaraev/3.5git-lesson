@@ -15,6 +15,8 @@ elif c == 4:
 	print(a, '/', b, '=', a/b)
 elif c == 5:
 	print('factorial', a, '=', math.factorial(int(a)))
+elif c == 6:
+	print('exponent', math.exp(b))
 else:
 	print('This action unacceptable!')
 
