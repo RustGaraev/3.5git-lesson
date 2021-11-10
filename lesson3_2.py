@@ -14,5 +14,5 @@ elif c == 3:
 elif c == 4:
 	print(a, '/', b, '=', a/b)
 else:
-	print('Такое действие недопустимо!')	
+	print('This action unacceptable!')
 
